@@ -34,7 +34,7 @@ function setup() {
   sling2 = new Sling(pendulum2.body, { x: 400, y: 200 });
   sling3 = new Sling(pendulum3.body, { x: 460, y: 200 });
   sling4 = new Sling(pendulum4.body, { x: 520, y: 200 });
-  sling5 = new Sling(pendulum5.body, { x: 580, y: 200 });
+  sling5 = new Sling(pendulum5.body, { x: 575, y: 200 });
 }
 
 function draw() {
